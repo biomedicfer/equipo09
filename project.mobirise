@@ -43,7 +43,7 @@
     "versionPublish": "5.0.29",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
